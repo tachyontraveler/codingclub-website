@@ -4,7 +4,8 @@
 - [Contact us](#contact-us)
 
 # Introduction
-An initiative to encourage and help students learn how to code in `python`
+An initiative to encourage and help students learn how to code in python ![alt text](/static/python-logo.png "python")
+
 ### History
 
 ### Current status
@@ -17,6 +18,7 @@ An initiative to encourage and help students learn how to code in `python`
 # Get Involved
 
 ### Contact US
+Email us at nucodingclub@gmail.com
 
 ### F.A.Qs
 
