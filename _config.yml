@@ -2,7 +2,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-github-metadata
   
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 title: NU Coding Club
 url: https://github.com/tachyontraveler/codingclub-website
 github:
