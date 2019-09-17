@@ -1,0 +1,21 @@
+plugins:
+  - jekyll-redirect-from
+  - jekyll-github-metadata
+  
+theme: jekyll-theme-cayman
+title: NU Coding Club
+url: https://github.com/tachyontraveler/codingclub-website
+github:
+  repository_url: https://github.com/tachyontraveler/codingclub-website
+  
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+  syntax_highlighter_opts:
+    disable: true
+
+include:
+  static
