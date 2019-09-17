@@ -5,6 +5,8 @@ plugins:
 theme: jekyll-theme-cayman
 title: NU Coding Club
 url: https://github.com/tachyontraveler/codingclub-website
+github:
+  is_project_page: false
   
 highlighter: rouge
 markdown: kramdown
