@@ -7,6 +7,7 @@ title: NU Coding Club
 url: https://github.com/tachyontraveler/codingclub-website
 github:
   repository_url: https://github.com/tachyontraveler/codingclub-website
+  is_project_page: false
   
 highlighter: rouge
 markdown: kramdown
