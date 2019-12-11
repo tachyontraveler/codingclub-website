@@ -9,7 +9,7 @@ An initiative to encourage and help students learn how to code in python ![alt t
 ### History
 
 ### Current status
-
+We have successfully run our pilot program for the first quarter at the Pederson-McCormick Boys and Girls club. 
 ### Preferences
     - Language == Python 3
     - Medium of scripting == Google Colabs
