@@ -4,7 +4,7 @@
 - [Contact us](#contact-us)
 
 # Introduction
-An initiative to encourage and help students learn how to code in python ![alt text](/static/python-logo.png "python")
+Hi! Our club is an initiative to teach the the basic and intermediate level coding to highschoolers and middle schoolers. The classes are entirely hands-on training in Python but also generalizing as much as possible so that the students would be able to adapt to another coding language quick and easy. 
 
 ### History
 
